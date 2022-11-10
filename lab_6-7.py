@@ -4,6 +4,7 @@ numbers = [] # Define list
 
 print('Please provide three numbers:')
 
+# You could say I found a LOOPhole
 for x in range(0,3): # this one doesn't say no loops!! :)
     numbers.append(int(input())) # add 3 integers to list
 
